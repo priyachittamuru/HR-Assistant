@@ -1,4 +1,4 @@
-# 🤖 AI Recruiting Agent (https://eu2.make.com/public/shared-scenario/EHewIKVW9Di/hr-assistant)
+# 🤖 AI Recruiting Agent [HR-Assistant](https://eu2.make.com/public/shared-scenario/EHewIKVW9Di/hr-assistant)
 
 An automated hiring assistant built in **Make (Integromat)** that screens resumes, evaluates candidates, and logs structured results — saving hours of manual work while ensuring consistent, bias-free shortlisting.
 
